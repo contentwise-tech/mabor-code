@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "mabor-code",
+    "name": "mabor-code",
+    "title": "MakeCode Editor for MABOR boards from Contentwise BVBA",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
@@ -24,7 +24,7 @@
     },
     "appTheme": {
         "logoUrl": "https://github.com/Microsoft/pxt-sample",
-        "homeUrl": "http://microsoft.github.io/pxt-sample/",
+        "homeUrl": "https://contentwise.tech/mabor",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
         "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
         "betaUrl": "https://makecode.com/",

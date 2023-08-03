@@ -7,6 +7,9 @@
     "education",
     "PXT"
   ],
+  "scripts": {
+    "start": "pxt serve"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Microsoft/pxt-sample.git"
